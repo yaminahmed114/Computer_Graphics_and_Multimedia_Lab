@@ -1,4 +1,5 @@
 ID-0432320005101114
+
 This Lab Assignment creates a cyan-colored window using OpenGL, GLFW, and GLAD in C++.
 
 Features:
